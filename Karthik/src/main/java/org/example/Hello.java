@@ -12,6 +12,8 @@ public class Hello {
 
         System.out.println("Hai");
 
+        System.out.println("HEllo Kamla");
+
 
     }
 }
