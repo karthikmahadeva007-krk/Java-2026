@@ -12,7 +12,7 @@ public class Hello {
 
         System.out.println("Hai");
 
-        System.out.println("HEllo Kamla");
+        System.out.println("Hello Kamal");
 
 
     }
