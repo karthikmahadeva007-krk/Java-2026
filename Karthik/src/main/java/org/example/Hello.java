@@ -10,6 +10,8 @@ public class Hello {
 
         System.out.println("Hello Ram");
 
+        System.out.println("Hai");
+
 
     }
 }
